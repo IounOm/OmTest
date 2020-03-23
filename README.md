@@ -1,2 +1,2 @@
 # OmTest
-test การใช้ github
+Hi my name is Ioun
